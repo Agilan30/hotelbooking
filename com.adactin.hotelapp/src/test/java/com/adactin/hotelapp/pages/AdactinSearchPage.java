@@ -286,8 +286,8 @@ public class AdactinSearchPage {
 		// hotelSelect("Hotel Creek");
 		hotelSelect("Hotel Sunshine");
 		roomNosSelect("2 - Two");
-		dateChekInTextBox().sendKeys("24/03/2016");
-		dateCheckOutTextBox().sendKeys("26/03/2016");
+		dateChekInTextBox().sendKeys("24/08/2023");
+		dateCheckOutTextBox().sendKeys("26/08/2023");
 		adultsPerRoomSelect("2 - Two");
 		childrenPerRoomSelect("2 - Two");
 
