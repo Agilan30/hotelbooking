@@ -27,7 +27,7 @@ Page Classes :  This layer provides methods to find and access Web Page Elements
 It is the only point of access to the Page Objects Repository.
 It will Also perform the Steps required to complete the Action Calls made by Test Classes layer.
 Ideally One Page Class per Web Page in the Application.
-Page classes are reusable across all Test Classes that need to interact with any of Its Elements. 
+Page classes are reusable across all Test Classes that need to interact with any of Its Element. 
 
 UtilKit : The UtilKit contains a set of Static methods to perform low level generic APIs.
 Methods in here are re-usable across multiple projects using the same framework. To make this work,
