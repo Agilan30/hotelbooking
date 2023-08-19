@@ -48,8 +48,8 @@ public class AdactinLoginPage {
 	public boolean defaultLogin() {
 		driver.findElement(goToBuild2LinkL).click();
 		//UtilKit.waitForPageToLoad(driver, 3);
-		driver.findElement(userNameTextBoxL).sendKeys("efrain583");
-		driver.findElement(passwordTextBoxL).sendKeys("efra12");
+		driver.findElement(userNameTextBoxL).sendKeys("AgilanHema");
+		driver.findElement(passwordTextBoxL).sendKeys("Agil@3001");
 		driver.findElement(loginButtomL).click();
 
 		return verifyLogin();
