@@ -14,7 +14,7 @@ import org.testng.annotations.Parameters;
 import Util.UtilKit;
 
 /*
- * githup : https://github.com/efrain583/com.adactin.hotelapp.git
+ * githup : https://github.com/Agilan30/hotelbooking.git
  */
 public class AdactinBase {
 	
